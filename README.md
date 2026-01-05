@@ -27,7 +27,8 @@ I designed and implemented a normalized relational database that:
 - SQL queries and reporting
 
 ## Documentation
-- Conceptual ERD: `/docs/ERD.pdf`
-- Business rules and assumptions: `/docs/Letter_of_Engagement.pdf`
-- Database schema and queries: `/sql/`
+- ERD + Business Rules: `ERD_Business_Rules.pdf`
+- Letter of Engagement: `Letter_of_Engagement.pdf`
+- Database implementation (tables, views, procedures, sample data): `community_food_pantry.sql`
+
 
